@@ -1,0 +1,4 @@
+{"baseUrl":"/log/archivo","hostname":"localhost","subdomains":[],"ip":"::1","method":"GET","originalUrl":"/log/archivo","path":"/","protocol":"http","header":{"cache-control":"no-cache","postman-token":"2c5a1119-f17a-4f17-9d5b-c340e325f785","user-agent":"PostmanRuntime/7.1.1","accept":"*/*","host":"localhost:3000","cookie":"login=value","accept-encoding":"gzip, deflate","connection":"keep-alive"}}
+
+{"baseUrl":"/log/todo","hostname":"localhost","subdomains":[],"ip":"::1","method":"GET","originalUrl":"/log/todo","path":"/","protocol":"http","header":{"cache-control":"no-cache","postman-token":"df8214b3-4f13-4ab7-93c7-46285dceaef8","user-agent":"PostmanRuntime/7.1.1","accept":"*/*","host":"localhost:3000","cookie":"login=value","accept-encoding":"gzip, deflate","connection":"keep-alive"}}
+
